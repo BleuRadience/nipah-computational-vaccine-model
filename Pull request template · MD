@@ -1,0 +1,33 @@
+## Description
+
+Brief description of changes made in this pull request.
+
+## Type of Change
+
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality) 
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Documentation update
+- [ ] Performance improvement
+
+## Scientific Impact
+
+- [ ] Improves epitope prediction accuracy
+- [ ] Enhances population coverage analysis
+- [ ] Adds new analytical capabilities
+- [ ] Validates against experimental data
+
+## Testing
+
+- [ ] Model runs without errors
+- [ ] Output files are generated correctly
+- [ ] New features include appropriate tests
+- [ ] Existing tests still pass
+
+## Checklist
+
+- [ ] Code follows PEP 8 style guidelines
+- [ ] Functions include docstrings
+- [ ] Changes are documented
+- [ ] No breaking changes to existing API
+- [ ] Maintains CC BY-NC-SA 4.0 license compliance
