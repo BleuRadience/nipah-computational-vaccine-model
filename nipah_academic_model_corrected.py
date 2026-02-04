@@ -17,7 +17,7 @@ This model integrates:
 - Codon optimization and cloning simulation
 
 License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-For commercial use, contact: aurora@bleuconsult.com
+For commercial use, contact: bleuisresting@gmail.com
 
 Citation: Harrison, C.D. (2026). Enhanced Nipah Virus Computational Vaccine Model.
 GitHub: https://github.com/BleuConsult/nipah-computational-vaccine
