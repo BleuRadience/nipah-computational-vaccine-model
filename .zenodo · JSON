@@ -1,0 +1,45 @@
+{
+  "title": "Enhanced Nipah Virus Computational Vaccine Model",
+  "description": "Academic-grade computational framework for rational vaccine design against Nipah virus. Integrates authentic NCBI sequences, hybrid epitope prediction, structural simulation, and immunoinformatics analysis to support rational vaccine development efforts.",
+  "creators": [
+    {
+      "name": "Harrison, Cassandra D.",
+      "affiliation": "AvaBleu Design LLC/BleuConsult",
+      "orcid": "0009-0003-1280-003X"
+    }
+  ],
+  "keywords": [
+    "computational biology",
+    "vaccine design", 
+    "epitope prediction",
+    "immunoinformatics",
+    "Nipah virus",
+    "multi-epitope vaccine",
+    "bioinformatics",
+    "reverse vaccinology",
+    "structural biology"
+  ],
+  "license": "CC-BY-NC-SA-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "bioinformatics"
+    },
+    {
+      "identifier": "open-science"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Bioinformatics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh99001573"
+    },
+    {
+      "term": "Computational Biology", 
+      "identifier": "https://id.loc.gov/authorities/subjects/sh2009120048"
+    }
+  ],
+  "notes": "Developed for non-commercial research and educational use. For commercial licensing inquiries, contact aurora@bleuconsult.com"
+}
