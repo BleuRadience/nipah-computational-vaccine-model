@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Enhanced Nipah Virus Computational Vaccine Model"
+authors:
+- family-names: "Harrison"
+  given-names: "Cassandra D."
+  orcid: "https://orcid.org/0009-0003-1280-003X"
+  affiliation: "AvaBleu Design LLC/BleuConsult"
+repository-code: "https://github.com/BleuConsult/nipah-computational-vaccine"
+abstract: "Academic-grade computational framework for rational vaccine design against Nipah virus using epitope prediction, multi-epitope construct assembly, and immunoinformatics analysis."
+keywords:
+  - "computational biology"
+  - "vaccine design"
+  - "epitope prediction"
+  - "immunoinformatics"
+  - "Nipah virus"
+  - "multi-epitope vaccine"
+  - "bioinformatics"
+license: "CC-BY-NC-SA-4.0"
+version: "1.0.0"
+date-released: "2026-02-04"
