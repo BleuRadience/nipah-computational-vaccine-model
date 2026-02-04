@@ -1,0 +1,69 @@
+# Contributing to the Nipah Virus Computational Vaccine Model
+
+Thank you for your interest in contributing to this academic research project! We welcome contributions from the computational biology, immunoinformatics, and vaccine design communities.
+
+## Types of Contributions
+
+### Research Contributions
+- **Wet-lab validation**: Experimental testing of predicted epitopes
+- **Model improvements**: Enhanced prediction algorithms
+- **Validation studies**: Comparison with known epitopes
+- **Population studies**: HLA frequency validation
+
+### Technical Contributions
+- **Code optimization**: Performance improvements
+- **New features**: Additional analysis capabilities
+- **Documentation**: Improved guides and examples
+- **Testing**: Additional test cases and validation
+
+### Academic Contributions
+- **Peer review**: Scientific methodology feedback
+- **Citations**: References to relevant literature
+- **Collaboration**: Joint research proposals
+
+## Getting Started
+
+1. **Fork the repository**
+2. **Create a feature branch** (`git checkout -b feature/improvement-name`)
+3. **Make your changes** with clear commit messages
+4. **Add tests** if applicable
+5. **Submit a pull request** with detailed description
+
+## Code Standards
+
+- Follow PEP 8 Python style guidelines
+- Include docstrings for all functions
+- Add type hints where appropriate
+- Maintain compatibility with Python 3.8+
+
+## Academic Standards
+
+- **Non-commercial use only**: All contributions must align with CC BY-NC-SA 4.0
+- **Scientific rigor**: Evidence-based improvements with citations
+- **Reproducibility**: Document methodology and provide test cases
+- **Open science**: Transparent development and peer review
+
+## License Agreement
+
+By contributing, you agree that your contributions will be licensed under the same CC BY-NC-SA 4.0 license that covers the project.
+
+## Contact
+
+For collaboration discussions:
+- Cassandra D. Harrison: bleuisresting@gmail.com
+- GitHub Issues: Technical questions and bug reports
+- X: @BleuRadience for research updates
+
+We especially welcome collaborations with:
+- Academic research groups
+- Public health organizations
+- Open-source bioinformatics projects
+- Experimental validation laboratories
+
+## Code of Conduct
+
+This project follows academic collaboration standards:
+- **Respectful discourse**: Professional and constructive communication
+- **Scientific integrity**: Honest reporting of methods and results
+- **Credit attribution**: Proper recognition of contributions
+- **Open collaboration**: Inclusive and transparent development
