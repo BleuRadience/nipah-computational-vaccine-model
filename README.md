@@ -67,7 +67,7 @@ Addresses critical need for Nipah virus countermeasures:
   year = {2026},
   publisher = {GitHub},
   url = {https://github.com/BleuConsult/nipah-computational-vaccine},
-  doi = {10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.18553807}
 }
 ```
 
