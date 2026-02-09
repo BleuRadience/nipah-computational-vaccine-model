@@ -20,6 +20,9 @@ Comprehensive pipeline for designing multi-epitope subunit vaccine candidates ta
 - 🔬 Receptor binding simulation (EphrinB2/B3)
 - 📈 Immune response kinetics modeling
 
+ ### Enhanced Capabilities
+Note: This repository represents the foundational G protein model. Enhanced dual-protein models incorporating F (fusion) protein optimization and advanced commercial applications are available through institutional collaboration agreements. For licensing inquiries regarding enhanced computational platforms, contact: aurora@bleuconsult.com
+
 ## Quick Start
 
 ```bash
